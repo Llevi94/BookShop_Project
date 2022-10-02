@@ -2,7 +2,7 @@
 ------------------
 
 - You have to download the DataBases, then click on Services > JavaDB > BookShopOb > right-click > connect..
-- Download the Video to watch (or you can watch the video [here](https://drive.google.com/file/d/18ZC9D8GZT7KPglAEfN79e2KkceKm-qsQ/view?usp=sharing) -> Google Drive).
+- Download the Video to watch (or you can watch the video [here](https://drive.google.com/file/d/13VyUE9CcH6NW0XCPGtG58FYGqoI8bxkI/view?usp=sharing) -> Google Drive).
 - PDF file with screenshots of the Junit tests success (NetBeans).
 
 - **Admin Account:** 
