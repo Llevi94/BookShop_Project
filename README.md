@@ -21,9 +21,9 @@ note: You can see more sellers accounts through the admin account - in the "Sell
 
 ------------------
 
-![GitHub language count](https://img.shields.io/github/languages/count/Llevi94/Llevi94.github.io)
-![GitHub top language](https://img.shields.io/github/languages/top/Llevi94/Llevi94.github.io?color=yellow)
-![GitHub last commit](https://img.shields.io/github/last-commit/Llevi94/Llevi94.github.io?color=red&style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/Llevi94/BookShop_Project)
+![GitHub top language](https://img.shields.io/github/languages/top/Llevi94/BookShop_Project?color=yellow)
+![GitHub last commit](https://img.shields.io/github/last-commit/Llevi94/BookShop_Project?color=red&style=plastic)
 
 
 
