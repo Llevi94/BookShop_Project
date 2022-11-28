@@ -1,5 +1,6 @@
 ### BookShop_Java_Project
 ------------------
+The purpose of the project is to develop a desktop app - SWING for managing inventory and receipts of a bookstore. The requirements document, design and architecture documents (class diagram, sequence diagram and more) were written for the application. (Data structures of language, levels of inherited, inclusion and polymorphism. JUNIT tests were performed on the functions).
 
 - You have to download the DataBases, then click on Services > JavaDB > BookShopOb > right-click > connect..
 - Download the Video to watch (or you can watch the video [here](https://drive.google.com/file/d/13VyUE9CcH6NW0XCPGtG58FYGqoI8bxkI/view?usp=sharing) -> Google Drive).
